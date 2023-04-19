@@ -98,4 +98,8 @@ a {
     background-color: #f1f1f1;
     text-align: center;
 }
-  
+
+.container3{
+    width: 400px;
+    margin: 0 auto;
+}
