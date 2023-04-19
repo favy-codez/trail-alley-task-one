@@ -35,16 +35,6 @@ th{
 }
 
 /* registration form */
-
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
-  }
-  
-  * {
-    box-sizing: border-box;
-  }
-  
   /* Add padding to containers */
   .container {
     padding: 16px;
